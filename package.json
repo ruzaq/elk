@@ -75,7 +75,7 @@
     "idb-keyval": "^6.2.1",
     "ignore-dependency-scripts": "^1.0.1",
     "iso-639-1": "^3.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.0",
     "lru-cache": "^10.0.0",
     "masto": "^5.11.3",
     "nuxt-security": "^0.13.1",
